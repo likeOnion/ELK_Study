@@ -15,6 +15,6 @@ Actual : `????`
 
 목표 학습량 : 2장/일  
 교재 : 일래스틱 6.0 입문  
-(http://elastic.co/download/elasticsearch)[ElasticSearch Download]   
-[Kibana Download](http://elastic.co/download/kibana)
+[`ElasticSearch Download`](http://elastic.co/download/elasticsearch)   
+[`Kibana Download`](http://elastic.co/download/kibana)
 
